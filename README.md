@@ -6,18 +6,19 @@ ImageAnnotation is a web app that allows you to annotate images for training AI 
 
 ## Prototype
 
----
+Mobile prototype on Figma:
+https://www.figma.com/proto/r30xUXyoFOCXp4vein9vue/ImageAnnotation?node-id=37-1431&p=f&t=0H7hXZTw7i4qFy6D-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=37%3A1431
 
 ## Demo
 
----
+Demo on Netlify: https://myimageannotation.netlify.app/
 
 ## Installation and Usage
 
 1.   Clone the repository:
 
      ```sh
-     git clone https://github.com/henriquepcm/kiwi-stocks.git
+     git clone https://github.com/henriquepcm/imageannotation
      ```
 
 2.   Access the directory:
