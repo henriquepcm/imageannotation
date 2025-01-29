@@ -54,9 +54,6 @@ Please note that this is an ongoing project, some of these features might not be
 -    Move between images by using arrow buttons
 -    Save or delete annotations made on images
 -    Export annotations in COCO format
--    Sticky lists for symbols and indicators while scrolling
--    Filter the list by clicking on indicators
--    Responsive design
 
 ## Technologies
 
