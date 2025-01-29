@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+     --imageannotationblue: #532ee3;
+     --imageannotationgrey: #3f3f3f;
+     --imageannotationlightgrey: #999999;
+     --imageannotationdarkgrey: #121212;
+     --imageannotationgreen: #31de3c;
+}
+
+body {
+     @apply bg-black text-white pt-6 pr-6 pl-6 font-light text-sm tracking-wider;
+}
+
+h2 {
+     @apply text-[1.125rem];
+}
+
+label {
+     @apply uppercase text-[0.6rem] tracking-widest text-imageannotationlightgrey translate-x-5 translate-y-7;
+}
+
+input {
+     @apply bg-black text-white font-semibold w-full h-[4.0625rem] border-[0.08rem] border-imageannotationgrey rounded-lg pt-2 pl-5 focus:outline-none focus:bg-imageannotationdarkgrey;
+}
