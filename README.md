@@ -2,7 +2,7 @@
 
 ## Description
 
-ImageAnnotation is a web app that allows you to annotate images for training AI models.
+ImageAnnotation is a web app (under construction) that allows you to annotate images for training AI models.
 
 ## Prototype
 
@@ -66,9 +66,7 @@ Please note that this is an ongoing project, some of these features might not be
 
 ## License
 
-Copyright (c) 2025 Henrique Pochmann
-
-All rights reserved. This software and its source code are proprietary and may not be copied, modified, distributed, or used without permission from the author.
+This project is licensed under the MIT License.
 
 ## Credits
 

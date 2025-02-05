@@ -19,7 +19,7 @@ export default function Header() {
                     <Logo />
                </div>
                <div className="flex-grow text-center font-bold text-base">
-                    ImageAnnotation
+                    Kiwi ImageAnnotation
                </div>
                <button
                     onClick={() => dispatch(openMenu())}
